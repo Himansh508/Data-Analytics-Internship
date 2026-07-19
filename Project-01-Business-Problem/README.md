@@ -3,6 +3,7 @@
 1. Company:
 **ShopSphere** (Fictional E-Commerce Company)
 
+
 3. Business Problem
 
 ShopSphere is an e-commerce company experiencing continuous sales growth, but its overall profitability remains inconsistent. The company wants to identify the reasons behind low-profit products, underperforming regions, and the impact of discounts on business performance.
