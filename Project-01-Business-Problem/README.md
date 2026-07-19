@@ -1,4 +1,4 @@
-Project 01 - Business Problem Understanding
+## Project 01 - Business Problem Understanding
 
 1. Company
 **ShopSphere** (Fictional E-Commerce Company)
