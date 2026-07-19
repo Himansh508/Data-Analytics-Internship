@@ -1,9 +1,9 @@
 ## Project 01 - Business Problem Understanding
 
-1. Company
+1. Company:
 **ShopSphere** (Fictional E-Commerce Company)
 
-2. Business Problem
+3. Business Problem
 
 ShopSphere is an e-commerce company experiencing continuous sales growth, but its overall profitability remains inconsistent. The company wants to identify the reasons behind low-profit products, underperforming regions, and the impact of discounts on business performance.
 
